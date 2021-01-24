@@ -11,7 +11,7 @@ namespace ClassMetotDemo
             musteri1.Ad = "Hande";
             musteri1.Soyad = "Ateş";
             musteri1.Telefon = 05548529639;
-
+            
             Musteri musteri2 = new Musteri(); //Musteri tipinde Musteri2 oluşturdum
             musteri2.Id = 2;
             musteri2.Ad = "Musa";
